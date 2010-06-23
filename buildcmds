@@ -3,3 +3,5 @@ R CMD build /home/user/workspace/NetData
 
 cd c:\eclwb
 R CMD check c:\eclwb\NetData
+
+R CMD check /Users/user01/Documents/workspace/NetData
