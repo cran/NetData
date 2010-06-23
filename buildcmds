@@ -1,2 +1,5 @@
 R CMD check /home/user/workspace/NetData
 R CMD build /home/user/workspace/NetData
+
+cd c:\eclwb
+R CMD check c:\eclwb\NetData

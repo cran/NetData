@@ -3,7 +3,7 @@
 \title{ Data for Social Network Analysis labs }
 \description{ 
   Various Network data sets that can be used for Dan McFarland's network analysis labs. Labs
-  available at \url{http://www.stanford.edu/~messing/mcfarland_labs/}.
+  will be made available in future releases of this package.
 }
 
 \usage{}
@@ -26,7 +26,6 @@ data(studentnets.magact96.97.98, package = "NetData")
 data(studentnets.m173, package="NetData")
 data(studentnets.ergm173, package = "NetData")
 
-## see http://www.stanford.edu/~messing/mcfarland_labs/ for detailed examples 
 }
 \keyword{ ~sna, NetData }
 
